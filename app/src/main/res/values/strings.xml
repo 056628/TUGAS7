@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Restaurant Review</string>
+    <string name="title">Agung Resto</string>
+    <string name="description">Berdiri sejak tahun 2017, Agung Resto memberikan warna baru pada restoran Melayu di Kota Pekanbaru. Unsur khas Melayu terasa kuat saat memasuki resto ini. Dekorasi Sultan Resto mengadopsi arsitektur Kesultanan Siak. Mulai dari pintu, jendela hingga ukiran. Selain itu juga dipajang beberapa foto lama yang menjadi sarana edukasi budaya Melayu dan sejarah Kota Pekanbaru bagi setiap pengunjung.</string>
+    <string name="review">Review</string>
+    <string name="write_your_review_here">Bagikan pengalaman anda disini..</string>
+    <string name="send">Kirim</string>
+</resources>
